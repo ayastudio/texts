@@ -2,8 +2,13 @@
 
 ## Dev
 
+- Translate vim.exit
+- s
+
 ## DevOps
 
-## Meta translations
+- s
+- s
 
+## Meta translations
 
