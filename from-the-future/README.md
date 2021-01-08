@@ -2,7 +2,6 @@
 
 ## Dev
 
-- Translate vim.exit
 - s
 
 ## DevOps
