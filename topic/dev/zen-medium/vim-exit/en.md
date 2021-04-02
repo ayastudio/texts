@@ -1,9 +1,5 @@
 # Vim - save and exit. How to exit Vim. Exit from vi.
 
-Author: Yakov Gellert @novusnota
-Translated by: Yakov Gellert @novusnota
-Date: 29.12.2020
-
 > I worked in Vim for two years, because I couldn't figure out a way to exit.
 > © Anonimous
 
@@ -97,3 +93,10 @@ There is also NeoVim, a rewritten and improved version of Vim, I recommend looki
 Helpful? Like and subscription to the studio :)
 By the way, to keep track of our projects, successes and failures, subscribe to the [email newsletter] (https://gumroad.com/ayast).
 No spam and nonsense, we promise.
+
+---
+
+Date: 29.12.2020
+| Author: Yakov Gellert (novusnota)
+| Translated by: Yakov Gellert (novusnota)
+
